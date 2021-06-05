@@ -12,7 +12,7 @@ pipeline {
             agent any
             steps {
                 // Get some code from a GitHub repository
-                git 'https://github.com/devops-trainer/DevOpsClassCodes.git'
+                git 'https://github.com/shubham838/DevOpsClassCodes.git'
 
             }
         }
